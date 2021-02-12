@@ -26,9 +26,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-<h2 align="center">
+<h2 align = "center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
+
 <h4 aligh="center">
  Its just a Start<img src="https://github.com/soumyajit007-creator/soumyajit007-creator/blob/main/preview.gif" width="40">
 </h4>
