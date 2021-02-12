@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://photos.app.goo.gl/Af3txG8w5iZqZLfw5" />
+<img src="https://photos.app.goo.gl/xiaJQG7wc6mgwUEVA" />
 
 <p align="center">
 <h1 align="center">Hi 👋, I'm Soumyajit Paul, aka ᖫP͢͢ɇŇetɍȺtøRᖭ</h1>
