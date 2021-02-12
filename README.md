@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soumyajit Paul, aka ᖫP͢͢ɇŇetɍȺtøRᖭ</h1>
+<h2 align="center">Hi 👋, I'm Soumyajit Paul, aka ᖫP͢͢ɇŇetɍȺtøRᖭ</h2>
 <h3 align="center">A passionate and keenly interested LEARNER</h3>
 
 - 🔭 I’m currently working on **Android Developing**
