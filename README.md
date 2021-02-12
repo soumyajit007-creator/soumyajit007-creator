@@ -2,7 +2,7 @@
 <img src="https://github.com/soumyajit007-creator/soumyajit007-creator/blob/main/maxresdefaultg%20(3).jpg" />
 
 </p align="center">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyajit Paul, aka ᖫP͢͢ɇŇetɍȺtøRᖭ</h1>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyajit Paul, aka ᖫP͢͢ɇŇetɍȺtøRᖭ</h2>
 <h3 align="center">A passionate and keenly interested LEARNER</h3>
 
 - 🔭 I’m currently working on **Android Developing**
