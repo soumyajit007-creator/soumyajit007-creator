@@ -1,3 +1,9 @@
+<p align="center">
+ 
+</p align="center">
+<img src="https://photos.app.goo.gl/Af3txG8w5iZqZLfw5" />
+
+<p align="center">
 <h1 align="center">Hi 👋, I'm Soumyajit Paul, aka ᖫP͢͢ɇŇetɍȺtøRᖭ</h1>
 <h3 align="center">A passionate and keenly interested LEARNER</h3>
 
