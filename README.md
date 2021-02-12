@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/soumyajit007-creator/soumyajit007-creator/blob/main/maxresdefaultg.jpg" />
+<img src="https://github.com/soumyajit007-creator/soumyajit007-creator/blob/main/maxresdefaultg%20%20short.jpg" />
 
 <p align="center">
 <h1 align="center">Hi 👋, I'm Soumyajit Paul, aka ᖫP͢͢ɇŇetɍȺtøRᖭ</h1>
