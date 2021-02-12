@@ -30,7 +30,7 @@
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 <h3 align="center">
-  Its just a START<img src="https://assets.materialup.com/uploads/720c555b-0dbd-47ef-9fea-8ea496da1482/preview.gif" width="50">
+  Its just a START<img src="https://github.com/soumyajit007-creator/soumyajit007-creator/blob/main/preview.gif" width="50">
 </h3>
 
  <br>
