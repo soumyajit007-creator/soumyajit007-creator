@@ -28,4 +28,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyajit007-creator&show_icons=true&locale=en&layout=compact" alt="soumyajit007-creator" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyajit007-creator&show_icons=true&locale=en" alt="soumyajit007-creator" /></p>
+<p align = "center">
+ 
+ <img  src="https://github-readme-stats.vercel.app/api?username=soumyajit007-creator&show_icons=true&theme=radical&line_height=27" />
+</p> 
+
