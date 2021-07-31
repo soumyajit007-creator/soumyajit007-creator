@@ -13,7 +13,7 @@
 
 - 💬 tell me some **jokes**
 
-- 📫 How to reach me [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Soumyajitpaul007)
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Soumyajitpaul007)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
