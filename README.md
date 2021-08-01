@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Soumyajitpaul007)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <p align="left">
 
 <a href="https://instagram.com/its_deathmachine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="its_deathmachine" height="30" width="40" /></a>
