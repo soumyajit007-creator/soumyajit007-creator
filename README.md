@@ -37,7 +37,7 @@
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=soumyajit007-creator&count_private=true&show_icons=true&theme=radical&line_height=27">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit007-creator&hide=css,java,html&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit007-creator&hide=css,java,html&theme=radical&&layout=compact">
   <br>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit007-creator&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
   <br>
