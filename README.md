@@ -40,4 +40,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit007-creator&hide=css,java,html&theme=radical">
   <br>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit007-creator&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <br>
+  <img src = "https://activity-graph.herokuapp.com/graph?username=soumyajit007-creator&theme=react-dark&hide_border=true&area=true&color=F14199&line=EB3C7E&area_color=7C4E62" />
 </p> 
